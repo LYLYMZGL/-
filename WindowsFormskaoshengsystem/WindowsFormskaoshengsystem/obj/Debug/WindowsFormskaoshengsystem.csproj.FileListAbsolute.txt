@@ -1,0 +1,43 @@
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\bin\Debug\WindowsFormskaoshengsystem.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\bin\Debug\WindowsFormskaoshengsystem.exe
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\bin\Debug\WindowsFormskaoshengsystem.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.exe
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.pdb
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\bin\Debug\WindowsFormskaoshengsystem.exe.config
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.exe
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.pdb
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\bin\Debug\WindowsFormskaoshengsystem.exe
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\bin\Debug\WindowsFormskaoshengsystem.pdb
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.Form1.resources
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.Properties.Resources.resources
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.Form2.resources
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.Form3.resources
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.Form4.resources
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.Form5.resources
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.Form6.resources
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.Form7.resources
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\考生管理系统\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\bin\Debug\WindowsFormskaoshengsystem.exe.config
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\考生管理系统\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.exe
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\考生管理系统\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.pdb
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\考生管理系统\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\bin\Debug\WindowsFormskaoshengsystem.exe
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\考生管理系统\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\bin\Debug\WindowsFormskaoshengsystem.pdb
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\考生管理系统\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\考生管理系统\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.Form2.resources
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\考生管理系统\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.Form1.resources
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\考生管理系统\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.Form3.resources
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\考生管理系统\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.Form4.resources
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\考生管理系统\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.Form5.resources
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\考生管理系统\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.Form6.resources
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\考生管理系统\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.Form7.resources
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\考生管理系统\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.Properties.Resources.resources
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\考生管理系统\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\考生管理系统\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.Form8.resources
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\161210257-梁一亮-考生管理系统\考生管理系统\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\bin\Debug\WindowsFormskaoshengsystem.exe.config
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\161210257-梁一亮-考生管理系统\考生管理系统\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.exe
+C:\Users\admin\Desktop\文件\大二\大二下\C#实训\161210257-梁一亮-考生管理系统\考生管理系统\WindowsFormskaoshengsystem\WindowsFormskaoshengsystem\obj\Debug\WindowsFormskaoshengsystem.pdb
